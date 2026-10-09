@@ -1,0 +1,22 @@
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: warning: ./tempo_v3/module_mp_tempo_driver.F90:545:5: Syntax error: Unexpected source construct
+  545 |     open(unit=mp_unit, file=filename, form='unformatted', status='old', access='stream', &
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-ccpp-framework/./.codee-format'
+codee: warning: ./tempo_v3/module_mp_tempo_tables.F90:116:5: Syntax error: Unexpected source construct
+  116 |     open(unit=mp_unit, file=filename, form='unformatted', status='new', access='stream', &
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+codee: info: 15 parsed files, 0 formatted files, 0 detected formatting issues (0 fixed) in 345 ms

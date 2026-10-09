@@ -1,0 +1,22 @@
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: info: Loading configuration from '/home/dev/work/ffcomp/ffcomp/codee-neptune/./.codee-format'
+codee: warning: ./tempo_v3/module_mp_tempo_driver.F90:546:29: Syntax error: Unexpected source construct
+  546 |       action='read', iostat=istat &
+      |                             ^~~~~~~
+codee: warning: ./tempo_v3/module_mp_tempo_tables.F90:117:14: Syntax error: Unexpected source construct
+  117 |       iostat=istat &
+      |              ^~~~~~~
+codee: info: 15 parsed files, 0 formatted files, 0 detected formatting issues (0 fixed) in 340 ms
